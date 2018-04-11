@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1501192485 source:e:\c programmes\c - project\project s_a\automated shop management\load.c
+	<stdio.h>
+	"S_A.h"
+
+1501651850 source:e:\c programmes\c - project\project s_a\automated shop management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1501651623 e:\c programmes\c - project\project s_a\automated shop management\s_a.h
+
+1501651623 source:e:\c programmes\c - project\project s_a\automated shop management\add_item.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	"S_A.h"
+
+1501651623 source:e:\c programmes\c - project\project s_a\automated shop management\user_exit.c
+	<stdio.h>
+	<string.h>
+	"S_A.h"
+
+1501651623 source:e:\c - project\project s_a\automated shop management\user_exit.c
+	<stdio.h>
+	<string.h>
+	"S_A.h"
+
+1508020240 e:\c - project\project s_a\automated shop management\s_a.h
+
+1508020240 source:e:\c - project\project s_a\automated shop management\add_item.c
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	"S_A.h"
+
+1508061601 source:e:\c - project\project s_a\automated shop management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1507755055 source:e:\c - project\project s_a\automated shop management\load.c
+	<stdio.h>
+	"S_A.h"
+
+1508017532 source:e:\c - project\project s_a\automated shop management\show_item.c
+	<stdio.h>
+	<string.h>
+	"S_A.h"
+
+1508023402 source:e:\c - project\project s_a\automated shop management\delete_item.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1507932106 source:e:\c - project\project s_a\automated shop management\search_item.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1507932106 source:e:\c - project\project s_a\automated shop management\call_exit.c
+	<stdio.h>
+	"S_A.h"
+
+1508061689 source:e:\c - project\project s_a\automated shop management\customer_item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_A.h"
+
+1508017532 source:e:\c - project\project s_a\automated shop management\generate_report.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1508063048 source:e:\c - project\project s_a\automated shop management\add_quantiity_of_existing_item.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"S_A.h"
+
+1508020981 source:e:\c - project\project s_a\automated shop management\add_new_item.c
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	"S_A.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\add_new_item.c
+	<stdio.h>
+	<string.h>
+	<strings.h>
+	<conio.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508265304 e:\c - project\project s_a\digital shop management\s_a.h
+
+1508268202 source:e:\c - project\project s_a\digital shop management\call_exit.c
+	<stdio.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508298515 source:e:\c - project\project s_a\digital shop management\customer_item.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"S_A.h"
+	"customer.h"
+	"menu_head.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\delete_item.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508269517 source:e:\c - project\project s_a\digital shop management\generate_report.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+	"customer.h"
+	"menu_head.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\search_item.c
+	<stdio.h>
+	<stdlib.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\show_item.c
+	<stdio.h>
+	<string.h>
+	"S_A.h"
+	"menu_head.h"
+
+1501651623 source:e:\c - project\project s_a\digital shop management\user_exit.c
+	<stdio.h>
+	<string.h>
+	"S_A.h"
+
+1508269112 source:e:\c - project\project s_a\digital shop management\add_quantiity_of_existing_item.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508065101 source:e:\c - project\project s_a\digital shop management\load.c
+	<stdio.h>
+	"S_A.h"
+
+1508298515 e:\c - project\project s_a\digital shop management\customer.h
+
+1508297069 source:e:\c - project\project s_a\digital shop management\menu.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508297836 source:e:\c - project\project s_a\digital shop management\admin_menu.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"S_A.h"
+	"menu_head.h"
+
+1508295581 e:\c - project\project s_a\digital shop management\menu_head.h
+
+1508295793 source:e:\c - project\project s_a\digital shop management\customer_menu.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"S_A.h"
+	"menu_head.h"
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Digital Shop Management" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Automated Shop Management" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Automated Shop Management" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="S_A.h" />
+		<Unit filename="add_new_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="add_quantiity_of_existing_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="admin_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="call_exit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="customer.h" />
+		<Unit filename="customer_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="customer_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="delete_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="generate_report.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="load.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu_head.h" />
+		<Unit filename="search_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="show_item.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="user_exit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
